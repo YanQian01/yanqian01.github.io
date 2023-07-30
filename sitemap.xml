@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://furina.cc/posts/a0e43780.html</loc>
+    <loc>https://furina.cc/posts/3c33eb39.html</loc>
     
     <lastmod>2023-07-30</lastmod>
     
@@ -12,6 +12,15 @@
   
   <url>
     <loc>https://furina.cc/posts/d8cab513.html</loc>
+    
+    <lastmod>2023-07-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://furina.cc/posts/b5c2cc31.html</loc>
     
     <lastmod>2023-07-30</lastmod>
     
@@ -301,6 +310,20 @@
   </url>
   
   <url>
+    <loc>https://furina.cc/tags/windows/</loc>
+    <lastmod>2023-07-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://furina.cc/tags/%E6%AF%8F%E6%97%A560S/</loc>
+    <lastmod>2023-07-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://furina.cc/tags/%E7%95%AA%E5%89%A7/</loc>
     <lastmod>2023-07-30</lastmod>
     <changefreq>weekly</changefreq>
@@ -360,6 +383,20 @@
   
   <url>
     <loc>https://furina.cc/categories/%E6%88%91%E7%9A%84%E7%94%9F%E6%B4%BB/</loc>
+    <lastmod>2023-07-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://furina.cc/categories/windows/</loc>
+    <lastmod>2023-07-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://furina.cc/categories/%E6%AF%8F%E6%97%A560S/</loc>
     <lastmod>2023-07-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
