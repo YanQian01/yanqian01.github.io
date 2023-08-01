@@ -319,13 +319,6 @@
   </url>
   
   <url>
-    <loc>https://furina.cc/tags/%E6%AF%8F%E6%97%A560S/</loc>
-    <lastmod>2023-08-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://furina.cc/tags/%E7%95%AA%E5%89%A7/</loc>
     <lastmod>2023-08-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -333,7 +326,7 @@
   </url>
   
   <url>
-    <loc>https://furina.cc/tags/MMD/</loc>
+    <loc>https://furina.cc/tags/%E6%AF%8F%E6%97%A560S/</loc>
     <lastmod>2023-08-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -341,6 +334,13 @@
   
   <url>
     <loc>https://furina.cc/tags/%E9%AB%98%E8%80%83/</loc>
+    <lastmod>2023-08-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://furina.cc/tags/MMD/</loc>
     <lastmod>2023-08-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -412,13 +412,6 @@
   </url>
   
   <url>
-    <loc>https://furina.cc/categories/%E6%AF%8F%E6%97%A560S/</loc>
-    <lastmod>2023-08-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://furina.cc/categories/%E7%9B%B8%E5%86%8C/</loc>
     <lastmod>2023-08-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -426,7 +419,7 @@
   </url>
   
   <url>
-    <loc>https://furina.cc/categories/MMD/</loc>
+    <loc>https://furina.cc/categories/%E6%AF%8F%E6%97%A560S/</loc>
     <lastmod>2023-08-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -434,6 +427,13 @@
   
   <url>
     <loc>https://furina.cc/categories/%E9%AB%98%E8%80%83/</loc>
+    <lastmod>2023-08-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://furina.cc/categories/MMD/</loc>
     <lastmod>2023-08-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
